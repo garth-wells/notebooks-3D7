@@ -1,1 +1,1 @@
-jupyter>=4.0
+jupyter
